@@ -1,3 +1,5 @@
+> July, 2020: This is an extension over the Jekyll Now theme with changes for AMP. Full credit of this theme goes to the awesome berryclark. Sorry, should've forked, but went for the easy route.
+
 > March, 2016: If you're on an old version of Jekyll Now and run into a) build warnings or b) syntax highlighting issues caused by [Jekyll 3 and GitHub Pages updates](https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0), just :sparkles:[update your _config.yml](https://github.com/barryclark/jekyll-now/pull/445/files):sparkles: and you'll be set!
 
 # Jekyll Now

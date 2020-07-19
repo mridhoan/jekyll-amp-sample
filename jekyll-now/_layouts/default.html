@@ -3,6 +3,9 @@
   <head>
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
+    {% if page.amp %}
+    <link rel="amphtml" href="{{site.url}}{{site.baseurl}}/amp{{ page.url }}">
+    {% endif %}
     {% include meta.html %}
 
     <!--[if lt IE 9]>
